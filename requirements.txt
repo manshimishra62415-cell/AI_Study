@@ -1,0 +1,7 @@
+streamlit>=1.40
+google-genai>=1.0
+pypdf>=4.0
+numpy
+pandas
+python-dotenv
+gTTS

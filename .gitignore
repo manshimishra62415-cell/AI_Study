@@ -1,0 +1,14 @@
+# secrets - NEVER commit these
+.env
+.streamlit/secrets.toml
+
+# local data
+users.db
+study_ai.db
+kb_data/
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
